@@ -235,7 +235,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 0.19958171, g: 0.6509434, b: 0.2749714, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -529,3 +529,60 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c18199d64d6cbef4e8e462a4613260fe, type: 3}
+--- !u!1001 &8604120632550896742
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -26
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063786, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604120631003063789, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
+      propertyPath: m_Name
+      value: Sala 5 Ale
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 48f6dc3b3458c934eb37455549a4f0bd, type: 3}
