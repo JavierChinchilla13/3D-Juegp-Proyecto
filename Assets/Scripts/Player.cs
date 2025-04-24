@@ -29,6 +29,11 @@ public class Player : MonoBehaviour
     public float slideVelocity;
     public float slopeForceDown;
 
+    // Control de cámara estilo Zelda
+    public Vector3 cameraOffset = new Vector3(0, 3, -5);
+    public float cameraRotationSpeed = 5f;
+    private float currentYaw;
+
     void Start()
     {
         player = GetComponent<CharacterController>();
@@ -37,6 +42,8 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        RotateCamera();
+
         horizontalMove = Input.GetAxis("Horizontal");
         verticalMove = Input.GetAxis("Vertical");
 
@@ -48,7 +55,8 @@ public class Player : MonoBehaviour
         Vector3 horizontalMoveVector = playerInput.x * camRight + playerInput.z * camForward;
         horizontalMoveVector = horizontalMoveVector * playerSpeed;
 
-        player.transform.LookAt(player.transform.position + horizontalMoveVector);
+        if (horizontalMoveVector != Vector3.zero)
+            player.transform.LookAt(player.transform.position + horizontalMoveVector);
 
         SetGravity();
         PlayerSkills();
@@ -57,7 +65,6 @@ public class Player : MonoBehaviour
         animator.SetFloat("Velocity", player.velocity.magnitude);
 
         movePlayer = new Vector3(horizontalMoveVector.x, fallVelocity, horizontalMoveVector.z);
-
         player.Move(movePlayer * Time.deltaTime);
     }
 
@@ -112,9 +119,20 @@ public class Player : MonoBehaviour
         hitNormal = hit.normal;
     }
 
-    // Revisión real de si hay suelo debajo, aunque el CharacterController no lo detecte
     bool IsReallyGrounded()
     {
         return Physics.Raycast(transform.position, Vector3.down, player.height / 2 + 0.2f);
+    }
+
+    // Zelda-style camera rotation
+    void RotateCamera()
+    {
+        currentYaw += Input.GetAxis("Mouse X") * cameraRotationSpeed;
+
+        Quaternion rotation = Quaternion.Euler(0, currentYaw, 0);
+        Vector3 desiredPosition = transform.position + rotation * cameraOffset;
+
+        mainCamera.transform.position = desiredPosition;
+        mainCamera.transform.LookAt(transform.position + Vector3.up * 1.5f); // mirar al pecho del jugador
     }
 }
