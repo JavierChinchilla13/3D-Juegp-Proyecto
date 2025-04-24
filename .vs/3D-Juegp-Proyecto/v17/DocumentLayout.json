@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\",
+  "WorkspaceRootPath": "H:\\Clases\\Cuatrimestre 9\\Proyecto 4\\Proyecto3D\\3D-Juegp-Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|c:\\users\\lizan\\downloads\\cosas u 2.0\\proyecto 4\\juegos3d\\3d-juegp-proyecto\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|h:\\clases\\cuatrimestre 9\\proyecto 4\\proyecto3d\\3d-juegp-proyecto\\assets\\scripts\\lifes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lifes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|h:\\clases\\cuatrimestre 9\\proyecto 4\\proyecto3d\\3d-juegp-proyecto\\assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Clases\\Cuatrimestre 9\\Proyecto 4\\Proyecto3D\\3D-Juegp-Proyecto\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FirstPersonCamera.cs",
-              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\FirstPersonCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstPersonCamera.cs",
-              "ToolTip": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\FirstPersonCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FirstPersonCamera.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Lifes.cs",
+              "DocumentMoniker": "H:\\Clases\\Cuatrimestre 9\\Proyecto 4\\Proyecto3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\Lifes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lifes.cs",
+              "ToolTip": "H:\\Clases\\Cuatrimestre 9\\Proyecto 4\\Proyecto3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\Lifes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lifes.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T04:35:59.58Z"
+              "WhenOpened": "2025-04-24T22:27:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Damage.cs",
+              "DocumentMoniker": "H:\\Clases\\Cuatrimestre 9\\Proyecto 4\\Proyecto3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\Damage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage.cs",
+              "ToolTip": "H:\\Clases\\Cuatrimestre 9\\Proyecto 4\\Proyecto3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\Damage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:24:36.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ThirdPersonCamera.cs",
-              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\ThirdPersonCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonCamera.cs",
-              "ToolTip": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\ThirdPersonCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ThirdPersonCamera.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
+              "Title": "GraphicRaycaster.cs",
+              "DocumentMoniker": "H:\\Clases\\Cuatrimestre 9\\Proyecto 4\\Proyecto3D\\3D-Juegp-Proyecto\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs",
+              "ToolTip": "H:\\Clases\\Cuatrimestre 9\\Proyecto 4\\Proyecto3D\\3D-Juegp-Proyecto\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T04:35:03.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Damage.cs",
-              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\Damage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage.cs",
-              "ToolTip": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\Damage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T22:20:22.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T21:52:20.369Z",
+              "WhenOpened": "2025-04-24T22:22:43.254Z",
               "EditorCaption": ""
             }
           ]

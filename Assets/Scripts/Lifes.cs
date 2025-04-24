@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Lifes : MonoBehaviour
 {
@@ -118,9 +119,18 @@ public class Lifes : MonoBehaviour
         }
     }
 
+    private IEnumerator RestartGameAfterDelay(float delay)
+    {
+        yield return new WaitForSecondsRealtime(delay); // Usa WaitForSecondsRealtime porque Time.timeScale = 0
+        Time.timeScale = 1; // Restaura el tiempo antes de recargar
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+
     private void GameOver()
     {
-        Time.timeScale = 0;
         GO.SetActive(true);
+        StartCoroutine(RestartGameAfterDelay(5f));
     }
+
 }

@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|c:\\users\\lizan\\downloads\\cosas u 2.0\\proyecto 4\\juegos3d\\3d-juegp-proyecto\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|c:\\users\\lizan\\downloads\\cosas u 2.0\\proyecto 4\\juegos3d\\3d-juegp-proyecto\\assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|c:\\users\\lizan\\downloads\\cosas u 2.0\\proyecto 4\\juegos3d\\3d-juegp-proyecto\\assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|C:\\Users\\lizan\\Downloads\\Cosas U 2.0\\Proyecto 4\\Juegos3D\\3D-Juegp-Proyecto\\assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAEE679A-39A7-9218-B777-4019E9D363F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Assets\\Scripts\\FirstPersonCamera.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T04:35:59.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T04:35:59.58Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ThirdPersonCamera.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T04:35:03.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T04:35:03.338Z"
             },
             {
               "$type": "Document",
